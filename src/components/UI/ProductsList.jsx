@@ -3,8 +3,8 @@ import ProductCard from './ProductCard'
 function ProductsList({data}) {
   return (
     <>
-{data.map((item)=>( 
-     <ProductCard item ={item} />
+{data.map((item , index)=>( 
+     <ProductCard  key= {index} item ={item} />
 ))
 }
     </>
