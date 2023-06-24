@@ -32,73 +32,72 @@
 .hero_container {
   padding-top: 45px;
 }
-.timer{
+.timer {
   background: var(--primary-color);
   height: 300px;
 }
-.timer img{
+.timer img {
   width: 70% !important;
   height: 70% !important;
   object-fit: contain;
 }
-.store_btn{
+.store_btn {
   background: #fff;
   color: var(--primary-color);
   font-weight: 700;
 }
-.store_btn a:hover{
+.store_btn a:hover {
   color: var(--primary-color);
 }
 
-@media only screen and (max-width : 992px) {
-  .hero_container h2{
+@media only screen and (max-width: 992px) {
+  .hero_container h2 {
     font-size: 2rem;
   }
-  .section_title{
+  .section_title {
     font-size: 1.7rem;
   }
-  .counter_img{
+  .counter_img {
     display: none;
   }
-  .clock_top-content{
+  .clock_top-content {
     text-align: center;
   }
-  .clock_top-content h4{
+  .clock_top-content h4 {
     font-size: 0.9rem;
   }
-  .clock_top-content h3{
+  .clock_top-content h3 {
     font-size: 1rem !important;
   }
-  .clock_wrapper{
+  .clock_wrapper {
     justify-content: center;
   }
-  .clock_data h1{
+  .clock_data h1 {
     font-size: 1.1rem !important;
   }
-  .clock_data h5{
+  .clock_data h5 {
     font-size: 0.9rem !important;
   }
-  .count_down-col{
+  .count_down-col {
     text-align: center;
-
   }
 }
-@media only screen and (max-width : 768px) {
-  .hero_container h2{
+@media only screen and (max-width: 768px) {
+  .hero_container h2 {
     font-size: 1.6rem;
   }
-  .hero_container p{
+  .hero_container p {
     font-size: 0.9rem;
   }
-  .buy_btn{
+  .buy_btn {
     font-size: 0.9rem;
   }
-  .section_title{
+  .section_title {
     font-size: 1.4rem;
   }
 }
-@media only screen and (max-width : 576px){
-  .hero_container{
+@media only screen and (max-width: 576px) {
+  .hero_container {
     padding-top: 0;
     margin-bottom: 40px;
   }

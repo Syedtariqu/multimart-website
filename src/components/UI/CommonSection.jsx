@@ -1,14 +1,14 @@
-import React from 'react'
-import { Container } from 'reactstrap';
-import '../../style/common_section.css'
-function CommonSection({title}) {
+import React from "react";
+import { Container } from "reactstrap";
+import "../../style/common_section.css";
+function CommonSection({ title }) {
   return (
-  <section className="common_section">
-<Container className='text-center'>
-     <h1>{title}</h1>
-</Container>
-  </section>
-  )
+    <section className="common_section">
+      <Container className="text-center">
+        <h1>{title}</h1>
+      </Container>
+    </section>
+  );
 }
 
-export default CommonSection
+export default CommonSection;

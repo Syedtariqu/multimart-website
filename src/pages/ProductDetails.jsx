@@ -44,7 +44,7 @@ function ProductDetails() {
       text: reviewUserMsg,
       rating,
     };
-    toast.success("Review Submitted")
+    toast.success("Review Submitted");
   };
 
   const addToCart = () => {

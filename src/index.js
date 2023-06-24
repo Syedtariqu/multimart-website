@@ -21,7 +21,8 @@ root.render(
           pauseOnHover={false}
         />
         <App />
-      </Provider>,
+      </Provider>
+      ,
     </BrowserRouter>
   </React.StrictMode>
 );

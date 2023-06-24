@@ -54,18 +54,18 @@ a {
   text-decoration: none;
   color: unset;
 }
-img{
+img {
   width: 100%;
 }
-section{
+section {
   padding: 60px 0px;
 }
-.section_title{
+.section_title {
   color: var(--primary-color);
   font-weight: 600;
 }
-@media only screen and (max-width : 786px){
-section {
-  padding: 40px 0px;
-}
+@media only screen and (max-width: 786px) {
+  section {
+    padding: 40px 0px;
+  }
 }
