@@ -166,26 +166,26 @@
     display: block;
   }
   .mobile_menu span i {
-    font-size: 1.1rem !important;
+    font-size: 1.4rem !important;
   }
   .logo img {
-    width: 1rem;
-    height: 1rem;
+    width: 1.2rem;
+    height: 1.2rem;
   }
   .logo h1 {
     font-size: 1rem;
   }
 
   .cart_icon i {
-    font-size: 1.3rem !important;
+    font-size: 1.5rem !important;
   }
   .nav_icons .profile img {
-    width: 1.7rem;
-    height: 1.7rem;
+    width: 1.9rem;
+    height: 1.9rem;
   }
   .header {
     width: 100%;
-    height: 70px;
+    height: 65px;
     line-height: 60px;
   }
 
